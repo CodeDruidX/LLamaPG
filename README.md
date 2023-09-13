@@ -1,9 +1,12 @@
-LlamaPG: https://colab.research.google.com/drive/1W2uXUYEFvVsX1iEG_vA6IJA8bn7mGAVy?usp=sharing
+# Как потестить всё самому?
 
-Запуск .ipynb без блокировок: https://colab.research.google.com/drive/134f2PLaWs8mSXVUyzMnrV3RyXQteXMi5?usp=sharing
+Запускаем всё по порядку в этом блокноте: [LlamaPG](https://colab.research.google.com/drive/1W2uXUYEFvVsX1iEG_vA6IJA8bn7mGAVy?usp=sharing)
 
-Готовый вариант .ipynb блокнота с Counterfeit V3 Stable Diffusion: https://github.com/CodeDruidX/LLamaPG/blob/main/my_counterfeit_webui_colab.ipynb
+Блокнот с SD, который непосредственно рисует (но его нельзя запускать в чистом виде, он банится колабом). Можно проигнорировать, если вам не обязательно получать иллюстрации: [Готовый вариант .ipynb блокнота с Counterfeit V3 Stable Diffusion](https://github.com/CodeDruidX/LLamaPG/blob/main/my_counterfeit_webui_colab.ipynb)
 
+Штука, которая запускет блокнот со SD без блокировки (Если оно вам надо): [Запуск .ipynb без блокировок](https://colab.research.google.com/drive/134f2PLaWs8mSXVUyzMnrV3RyXQteXMi5?usp=sharing)
+
+# Если вы оказались в этом репозитории случайно:
 
 <a href="https://habr.com/ru/company/ruvds/blog/523004/"><img src="https://habrastorage.org/webt/xu/2h/va/xu2hvap392fmfb45wgzkwdpfjs8.png" align="center"></a>
 Языковые модели (<a href="https://en.wikipedia.org/wiki/Natural_language_processing">NLP</a>) сейчас активно развиваются и находят себе всё больше <i>интересных</i> применений. Начиналась же их эпоха с классики жанра - <a href="https://ru.m.wikipedia.org/wiki/Dungeons_%26_Dragons">D&D</a>. Это настольная игра, где несколько друзей или просто знакомых синхронно <i>галлюцинируют</i>, предсталяя себя командой героев в неком <i>вымышленном</i> мире. Прав же во внутриигровых выборах тот, кто выкинул большее число на игральной кости. Судить сейчас об их мотивации у меня нет никакого желания, да и статья вообще-то не об этом.
